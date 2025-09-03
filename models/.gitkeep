@@ -1,0 +1,8 @@
+# Placeholder file
+
+This file exists to ensure the `models/` folder is tracked by Git.
+Do not delete it unless you add other files here.
+
+# Purpose:
+- Trained models (e.g., `migraine_demographics_model.joblib`) will be saved here after running `main.py`.
+- Models are **gitignored** to avoid pushing large/binary files to GitHub.
