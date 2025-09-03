@@ -1,0 +1,7 @@
+# Placeholder file
+
+This file exists to ensure the `data/` folder is tracked by Git.
+Do not delete it unless you add other files here.
+
+# Important:
+- Add your dataset (e.g., `Migraine_Control_Demographics.xlsx`) locally inside this folder only.
