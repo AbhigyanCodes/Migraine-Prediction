@@ -123,7 +123,7 @@ Ideas to make this project stronger:
 
 - Keep .gitkeep files in data/ and models/ so folders are visible on GitHub.
 
-- Add a clear LICENSE (MIT included) and optionally CONTRIBUTING.md if you want outside contributions.
+
 
 # 👤 Author & Contact
 
